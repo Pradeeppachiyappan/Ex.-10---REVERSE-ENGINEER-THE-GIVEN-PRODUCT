@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![img](exp10_empd.jpg)
 ### Output:
+![img](exp10_empd2.png)
+![img](exp10_empd3.png)
 
-
-### Name:
-### Register Number:
+### Name: AJAY ASWIN M
+### Register Number: 212222240005
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
