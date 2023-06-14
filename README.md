@@ -36,8 +36,8 @@
 ![img](exp10_empd2.png)
 ![img](exp10_empd3.png)
 
-### Name: AJAY ASWIN M
-### Register Number: 212222240005
+### Name: Pradeep Raj
+### Register Number: 212222240073
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
